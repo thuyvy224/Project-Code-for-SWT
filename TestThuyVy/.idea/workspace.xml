@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e0fe611-fa8b-421d-8cbf-aa017584eac1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dDfULOb771QTUjR9lr5FTDPNxZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.CounterTest.executor": "Run",
+    "JUnit.CubeAreaTest.executor": "Run",
+    "JUnit.CubeTest.executor": "Run",
+    "JUnit.CubeVolumeTest.executor": "Run",
+    "JUnit.MainTest.TestCase1.executor": "Run",
+    "JUnit.MainTest.TestCase2.executor": "Run",
+    "JUnit.MainTest.TestCase3.executor": "Run",
+    "JUnit.MainTest.TestCase4.executor": "Run",
+    "JUnit.MainTest.TestCase5.executor": "Run",
+    "JUnit.MainTest.TestCase6.executor": "Run",
+    "JUnit.MainTest.executor": "Run",
+    "JUnit.MainTest.testLargeRadius.executor": "Run",
+    "JUnit.MainTest.testNullRadius.executor": "Run",
+    "JUnit.MainTest.testZeroRadius.executor": "Run",
+    "JUnit.SphereAreaTest.executor": "Run",
+    "JUnit.SphereAreaTest.testInputStringA.executor": "Run",
+    "JUnit.SphereAreaTest.testZeroRadius.executor": "Run",
+    "JUnit.SphereVolumeTest.executor": "Run",
+    "JUnit.SquareTest.executor": "Run",
+    "JUnit.TetrahedronAreaTest.executor": "Run",
+    "JUnit.TetrahedronTest,testInvalidZeroRadius and 5 more.executor": "Profiler#1",
+    "JUnit.TetrahedronTest.executor": "Run",
+    "JUnit.TriangleTest.executor": "Run",
+    "JUnit.TriangleTest.testValidEquilateralTriangle.executor": "Run",
+    "JUnit.ValidateTest.executor": "Run",
+    "JUnit.ValidateTest.testCheckInputBinaryInvalid.executor": "Run",
+    "JUnit.ValidateTest.testCheckInputBinaryValid.executor": "Run",
+    "JUnit.ValidateTest.testCheckInputDecimalInvalid.executor": "Run",
+    "JUnit.ValidateTest.testCheckInputDecimalValid.executor": "Run",
+    "JUnit.ValidateTest.testCheckInputHexadecimalInvalid.executor": "Run",
+    "JUnit.ValidateTest.testCheckInputHexadecimalValid.executor": "Run",
+    "JUnit.ValidateTest.testCheckInputIntLimitInvalidLessThanMin.executor": "Run",
+    "JUnit.ValidateTest.testCheckInputIntLimitInvalidMoreThanMax.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/FPT-UNI/SU23/java-master/[LAB211] OOP with Java Lab/J1.S.P0011",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ThuyVy\IdeaProjects\TestThuyVy\src\main\java\org\example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ValidateTest.testCheckInputHexadecimalValid">
+    <configuration name="ValidateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestThuyVy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ValidateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateTest.testCheckInputDecimalInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestThuyVy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ValidateTest" />
+      <option name="METHOD_NAME" value="testCheckInputDecimalInvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateTest.testCheckInputDecimalValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestThuyVy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ValidateTest" />
+      <option name="METHOD_NAME" value="testCheckInputDecimalValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateTest.testCheckInputHexadecimalValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestThuyVy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ValidateTest" />
+      <option name="METHOD_NAME" value="testCheckInputHexadecimalValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateTest.testCheckInputIntLimitInvalidLessThanMin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestThuyVy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ValidateTest" />
+      <option name="METHOD_NAME" value="testCheckInputIntLimitInvalidLessThanMin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ValidateTest.testCheckInputHexadecimalValid" />
+        <item itemvalue="JUnit.ValidateTest.testCheckInputDecimalInvalid" />
+        <item itemvalue="JUnit.ValidateTest.testCheckInputDecimalValid" />
+        <item itemvalue="JUnit.ValidateTest.testCheckInputIntLimitInvalidLessThanMin" />
+        <item itemvalue="JUnit.ValidateTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e0fe611-fa8b-421d-8cbf-aa017584eac1" name="Changes" comment="" />
+      <created>1709547585760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709547585760</updated>
+      <workItem from="1709547587150" duration="14000" />
+      <workItem from="1709547679070" duration="906000" />
+      <workItem from="1709560832895" duration="13873000" />
+      <workItem from="1709611773045" duration="235000" />
+      <workItem from="1709612064067" duration="26000" />
+      <workItem from="1709612098867" duration="3000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/MainTest.java</url>
+          <line>321</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestThuyVy$ValidateTest.ic" NAME="ValidateTest Coverage Results" MODIFIED="1709623290722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>
